@@ -1,0 +1,8 @@
+{
+  "name": "Object Vision Voice",
+  "description": "Simple real-time object detection with voice feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
